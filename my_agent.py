@@ -3,7 +3,7 @@ from mcp import StdioServerParameters
 
 # Define API parameters for the OpenAI-compatible server
 API_BASE = "http://127.0.0.1:1234/v1"
-API_KEY = "sk-whatevery"
+API_KEY = "sk-whatever"
 MODEL_ID = "qwen-2.5-coder-14b-instruct"
 
 # Initialize the OpenAIServerModel with specified parameters
